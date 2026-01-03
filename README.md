@@ -70,17 +70,3 @@ To adjust the highlight colors, open **`style.css`**:
 ```css
 .table-danger { --bs-table-bg: #ffe6e6; } /* Absent Color */
 .table-success { --bs-table-bg: #e6fffa; } /* Present Color */
-
-```
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-
-***
-
-**Would you like me to guide you on how to host this specifically on "GitHub Pages" so you can share a live link with others?**
-
-```

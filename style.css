@@ -1,0 +1,19 @@
+ body { background-color: #f8f9fa; }
+        .container { max-width: 950px; margin-top: 30px; }
+        
+        .summary-card { transition: transform 0.2s; }
+        .summary-card:hover { transform: scale(1.02); }
+        
+        .table-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        /* Custom Colors for rows */
+        .table-danger { --bs-table-bg: #ffe6e6; }
+        .table-success { --bs-table-bg: #e6fffa; }
+        
+        /* Align actions column to the right */
+        .action-col { width: 100px; text-align: center; }

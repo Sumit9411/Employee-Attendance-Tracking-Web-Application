@@ -1,8 +1,3 @@
-Here is the updated `README.md` reflecting your new file structure.
-
----
-
-```markdown
 # Employee Attendance Tracker
 
 A lightweight, responsive web application for tracking employee attendance in real-time. Built with **HTML5**, **Bootstrap 5**, and **Vanilla JavaScript**, featuring a clean separation of concerns (HTML, CSS, JS).
